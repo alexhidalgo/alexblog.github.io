@@ -2,8 +2,8 @@ url: https://alexhidalgo.github.io
 baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Alex Hidalgo
+email: aj1hidalgo@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -22,49 +22,20 @@ people:
       url: https://twitter.com/dallashidalgo
     - title: linkedin
       url: https://www.linkedin.com/profile/view?id=47399960&trk=nav_responsive_tab_profile_pic
-    - title: stack-overflow
-      url: http://stackoverflow.com/users/4228302/alex-h
     - title: github
       url: https://github.com/alexhidalgo
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - t
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+    - title: twitter
+      url: https://twitter.com/dallashidalgo
+    - title: linkedin
+      url: https://www.linkedin.com/profile/view?id=47399960&trk=nav_responsive_tab_profile_pic
+    - title: github
+      url: https://github.com/alexhidalgo
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Austin, Texas
 
 # Build settings
 markdown: kramdown
