@@ -24,6 +24,8 @@ people:
       url: https://www.linkedin.com/profile/view?id=47399960&trk=nav_responsive_tab_profile_pic
     - title: stack-overflow
       url: http://stackoverflow.com/users/4228302/alex-h
+    - title: github
+      url: https://github.com/alexhidalgo
 
 - name: Larry Parker
   pic: 2
