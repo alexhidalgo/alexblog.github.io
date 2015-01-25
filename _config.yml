@@ -16,12 +16,12 @@ color:
 people:
 - name: Alex Hidalgo
   pic: 1
-  position: Lead Designer
+  position: Front-End Engineer
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://twitter.com/dallashidalgo
     - title: stack-overflow
       url: #
 
