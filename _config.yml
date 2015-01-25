@@ -19,11 +19,11 @@ people:
   position: Front-End Engineer
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: https://twitter.com/dallashidalgo
+    - title: linkedin
+      url: https://www.linkedin.com/profile/view?id=47399960&trk=nav_responsive_tab_profile_pic
     - title: stack-overflow
-      url: #
+      url: http://stackoverflow.com/users/4228302/alex-h
 
 - name: Larry Parker
   pic: 2
@@ -44,8 +44,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - t
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
