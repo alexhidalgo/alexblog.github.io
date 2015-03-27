@@ -181,10 +181,6 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.color.primary }};
 }
 
-.navbar > .container > a.navbar-default .navbar-brand {
-    margin-left: 1em;
-}
-
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
