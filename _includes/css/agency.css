@@ -181,10 +181,8 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.color.primary }};
 }
 
-a.navbar-default .navbar-brand {
-    /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    font-family: Junction;
-    color: #{{ site.color.primary }};
+.navbar > .container .navbar-default .navbar-brand {
+    margin-left: 1em;
 }
 
 .navbar-default .navbar-brand:hover,
