@@ -9,6 +9,7 @@ thumbnail: chatter-chatroom-thumbnail.png
 alt:
 project-date: March 2015
 client: Iron Yard Final Project
+demo: /#portfolioModal1
 category: Mobile Development
 description: Chatter is a realtime hybrid mobile chat app for ios and android. You can download the app by first downloading Ionic View from your app store, signing up, and entering my ID# 29AEE77D
 
