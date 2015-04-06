@@ -1,5 +1,11 @@
-<!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body style="margin-top: 12em; padding: 2em" id="page-top" class="index">
+
+    <nav style="background-color: #222222" class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -20,22 +26,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Tech</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <!-- <li>
-                        <a class="page-scroll" href="/blog/">Blog</a>
-                    </li> -->
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <!-- <li>
-                        <a class="page-scroll" href="#team">Team</a>
-                    </li> -->
-                    <li>
-                        <a class="page-scroll" href="#team">Contact</a>
+                        <a class="page-scroll" href="/">Home</a>
                     </li>
                 </ul>
             </div>
@@ -45,9 +36,10 @@
     </nav>
 
 
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
+		{{content}}
 
+		{% include pagination.html %}
+    {% include footer.html %}
+
+    </body>
+</html>

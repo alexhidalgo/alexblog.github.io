@@ -37,6 +37,10 @@ social:
 address:
   - line: Austin, Texas
 
+# Blog
+paginate_path: "/blog/page:num/"
+paginate: 5
+
 # Build settings
 markdown: kramdown
 permalink: pretty
